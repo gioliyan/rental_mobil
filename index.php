@@ -121,7 +121,7 @@ foreach($results as $result)
 <!-- /Resent Cat --> 
 
 <!-- Fun Facts-->
-<!-- <section class="fun-facts-section">
+<section class="fun-facts-section">
   <div class="container div_zindex">
     <div class="row">
       <div class="col-lg-3 col-xs-6 col-sm-3">
@@ -158,10 +158,10 @@ foreach($results as $result)
       </div>
     </div>
   </div>
-   Dark Overlay-->
-  <!-- <div class="dark-overlay"></div>
-</section> -->
-<!-- /Fun Facts--> 
+   Dark Overlay
+   <div class="dark-overlay"></div>
+</section>
+ <!-- /Fun Facts--> 
 
 
 <!--Testimonial -->
@@ -230,16 +230,17 @@ foreach($results as $result)
 <!--/Forgot-password-Form --> 
 
 <!-- Scripts --> 
-<script src="assets/js/jquery.min.js"></script>
-<script src="assets/js/bootstrap.min.js"></script> 
-<script src="assets/js/interface.js"></script> 
+<script src="https://objectstorage.ap-seoul-1.oraclecloud.com/n/cn6adhfrf5br/b/UTS/o/jquery.min.js"></script>
+<script src="https://objectstorage.ap-seoul-1.oraclecloud.com/n/cn6adhfrf5br/b/UTS/o/bootstrap.min.js"></script> 
+<script src="https://objectstorage.ap-seoul-1.oraclecloud.com/n/cn6adhfrf5br/b/UTS/o/interface.js"></script> 
 <!--Switcher-->
 <script src="assets/switcher/js/switcher.js"></script>
 <!--bootstrap-slider-JS--> 
-<script src="assets/js/bootstrap-slider.min.js"></script> 
+<script src="https://objectstorage.ap-seoul-1.oraclecloud.com/n/cn6adhfrf5br/b/UTS/o/bootstrap-slider.min.js"></script> 
 <!--Slider-JS--> 
-<script src="assets/js/slick.min.js"></script> 
-<script src="assets/js/owl.carousel.min.js"></script>
+<script src="https://objectstorage.ap-seoul-1.oraclecloud.com/n/cn6adhfrf5br/b/UTS/o/slick.min.js"></script> 
+<script src="https://objectstorage.ap-seoul-1.oraclecloud.com/n/cn6adhfrf5br/b/UTS/o/owl.carousel.min.js"></script>
+
 
 </body>
 

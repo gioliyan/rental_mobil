@@ -205,16 +205,16 @@ foreach($results as $result)
 <!--/Forgot-password-Form --> 
 
 <!-- Scripts --> 
-<script src="assets/js/jquery.min.js"></script>
-<script src="assets/js/bootstrap.min.js"></script> 
-<script src="assets/js/interface.js"></script> 
+<script src="https://objectstorage.ap-seoul-1.oraclecloud.com/n/cn6adhfrf5br/b/UTS/o/jquery.min.js"></script>
+<script src="https://objectstorage.ap-seoul-1.oraclecloud.com/n/cn6adhfrf5br/b/UTS/o/bootstrap.min.js"></script> 
+<script src="https://objectstorage.ap-seoul-1.oraclecloud.com/n/cn6adhfrf5br/b/UTS/o/interface.js"></script> 
 <!--Switcher-->
 <script src="assets/switcher/js/switcher.js"></script>
 <!--bootstrap-slider-JS--> 
-<script src="assets/js/bootstrap-slider.min.js"></script> 
+<script src="https://objectstorage.ap-seoul-1.oraclecloud.com/n/cn6adhfrf5br/b/UTS/o/bootstrap-slider.min.js"></script> 
 <!--Slider-JS--> 
-<script src="assets/js/slick.min.js"></script> 
-<script src="assets/js/owl.carousel.min.js"></script>
+<script src="https://objectstorage.ap-seoul-1.oraclecloud.com/n/cn6adhfrf5br/b/UTS/o/slick.min.js"></script> 
+<script src="https://objectstorage.ap-seoul-1.oraclecloud.com/n/cn6adhfrf5br/b/UTS/o/owl.carousel.min.js"></script>
 
 </body>
 
