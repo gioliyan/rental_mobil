@@ -1,9 +1,9 @@
 <?php 
 // DB credentials.
-define('DB_HOST','localhost');
-define('DB_USER','root');
-define('DB_PASS','');
-define('DB_NAME','rental_mobil');
+define('DB_HOST','10.0.0.182');
+define('DB_USER','admin');
+define('DB_PASS','Aqzal@123');
+define('DB_NAME','rentalmobil');
 // Establish database connection.
 try
 {
